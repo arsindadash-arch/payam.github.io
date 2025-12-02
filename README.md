@@ -1,6 +1,5 @@
 # payam.github.io
-به یاد پیام جان
-<!DOCTYPE html>
+به یاد پیام جان<!DOCTYPE html>
 <html lang="fa">
 <head>
     <meta charset="UTF-8">
@@ -46,12 +45,10 @@
 <div class="content">
     <p>یک متن کوتاه برای یادبود</p>
     
-    <img src="images/photo1.jpg" alt="![IMG_3711](https://github.com/user-attachments/assets/1c4ef6c5-ba1c-42e7-ba71-51aa6c6d8c0b)
-">
+    <img src="images/photo1.jpg" alt="Photo 1">
     <img src="images/photo2.jpg" alt="Photo 2">
     
-    <h3>ویدیو یاد پیام</h3>![Uploading IMG_3711.JPG…]()
-
+    <h3>ویدیو یاد پیام</h3>
     <video controls>
         <source src="video/memory.mp4" type="video/mp4">
         مرورگر شما از ویدیو پشتیبانی نمی‌کند.
