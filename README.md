@@ -1,6 +1,60 @@
 # payam.github.io
 به یاد پیام جان
-<img src="images/photo.png" alt="sample" />
-<img src="assets/myimage.jpg" alt="my image" />
-![IMG_3711](https://github.com/user-attachments/assets/fa07bada-b408-4c04-a55d-72bf4ab7e956)
-[Uploading Hamid-Rakhshandeh-Nejatam-Bede-320.mp3…]()
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>یادبود پیام</title>
+    <style>
+        body {
+            font-family: Tahoma, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px 0;
+            font-size: 2em;
+        }
+        .content {
+            margin: 20px auto;
+            max-width: 600px;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        img {
+            max-width: 100%;
+            margin: 10px 0;
+            border-radius: 10px;
+        }
+        video {
+            width: 100%;
+            margin-top: 10px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>یادبود پیام</header>
+
+<div class="content">
+    <p>یک متن کوتاه برای یادبود</p>
+    
+    <img src="images/photo1.jpg" alt="Photo 1">
+    <img src="images/photo2.jpg" alt="Photo 2">
+    
+    <h3>ویدیو یاد پیام</h3>
+    <video controls>
+        <source src="video/memory.mp4" type="video/mp4">
+        مرورگر شما از ویدیو پشتیبانی نمی‌کند.
+    </video>
+</div>
+
+</body>
+</html>
